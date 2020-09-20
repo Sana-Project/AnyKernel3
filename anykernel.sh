@@ -4,18 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kernel KeselekPermen69 @ telegram
+kernel.string=Kernel KeselekPermen69 @ tg
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=lavender
-device.name2=
-device.name3=
-device.name4=
-device.name5=
-supported.versions=9 - 10
+supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
 
